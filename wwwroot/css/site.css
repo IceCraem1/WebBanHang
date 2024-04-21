@@ -1,0 +1,152 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header styles */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #f0f0f0;
+    width: 100%;
+    flex-shrink: 0;
+    margin-bottom: 20px; /* Tạo khoảng cách giữa header và nội dung */
+}
+
+.logo img {
+    height: 50px;
+    padding: 1px 1px;
+    margin-right: 20px;
+}
+
+.search-cart input {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.cart-btn {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ff6600;
+    color: #fff;
+    cursor: pointer;
+}
+
+/* Navigation styles */
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #eee;
+}
+
+    nav ul li {
+        margin: 0 10px;
+    }
+
+        nav ul li a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+
+            nav ul li a:hover {
+                color: #ff6600;
+            }
+
+/*body style*/
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/*Content style*/
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 20px;
+    flex-grow: 1; /* Content mở rộng để điền vào phần còn trống của body */
+    padding-top: 20px; /* Khoảng cách giữa header và nội dung */
+    padding-bottom: 20px; /* Khoảng cách giữa nội dung và footer */
+}
+
+.column {
+    text-align: center;
+    padding: 50px 50px ;
+}
+
+    .column img {
+        max-width: 100%;
+        height: auto;
+    }
+
+.add-to-cart-btn {
+    padding: 10px 20px;
+    background-color: #ff6600;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+    .add-to-cart-btn:hover {
+        background-color: #ff8533;
+    }
+
+
+/* Footer styles */
+.footer__blocks-wrapper {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.footer-block {
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.footer-block__heading {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.footer-block__details-content {
+    list-style-type: none;
+    padding: 0;
+}
+
+    .footer-block__details-content li {
+        margin-bottom: 10px;
+    }
+
+    .footer-block__details-content a {
+        text-decoration: none;
+        color: #333;
+    }
+
+        .footer-block__details-content a:hover {
+            color: #ff6600;
+        }
+
+footer {
+    background-color: #f0f0f0;
+    width: 100%;
+    flex-shrink: 0;
+    padding: 10px;
+    margin-top: auto; /* Đặt footer ở cuối trang */
+}

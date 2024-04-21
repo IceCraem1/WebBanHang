@@ -1,0 +1,179 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebBanHang
+build_property.RootNamespace = WebBanHang
+build_property.ProjectDir = F:\VSC\WebBanHang\WebBanHang\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\VSC\WebBanHang\WebBanHang
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblCTHangs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsQ1RIYW5nc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblCTHangs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsQ1RIYW5nc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblCTHangs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsQ1RIYW5nc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblCTHangs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsQ1RIYW5nc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblCTHangs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsQ1RIYW5nc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblGioHangs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsR2lvSGFuZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblGioHangs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsR2lvSGFuZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblGioHangs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsR2lvSGFuZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblGioHangs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsR2lvSGFuZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblGioHangs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsR2lvSGFuZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblHangs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsSGFuZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblHangs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsSGFuZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblHangs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsSGFuZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblHangs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsSGFuZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblHangs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsSGFuZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblLoaiHangs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsTG9haUhhbmdzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblLoaiHangs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsTG9haUhhbmdzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblLoaiHangs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsTG9haUhhbmdzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblLoaiHangs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsTG9haUhhbmdzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblLoaiHangs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsTG9haUhhbmdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblNguoiDungs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsTmd1b2lEdW5nc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblNguoiDungs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsTmd1b2lEdW5nc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblNguoiDungs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsTmd1b2lEdW5nc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblNguoiDungs/Dstk.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsTmd1b2lEdW5nc1xEc3RrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblNguoiDungs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsTmd1b2lEdW5nc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblNguoiDungs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsTmd1b2lEdW5nc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblTrangThaiHangs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsVHJhbmdUaGFpSGFuZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblTrangThaiHangs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsVHJhbmdUaGFpSGFuZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblTrangThaiHangs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsVHJhbmdUaGFpSGFuZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblTrangThaiHangs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsVHJhbmdUaGFpSGFuZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/tblTrangThaiHangs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdGJsVHJhbmdUaGFpSGFuZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/VSC/WebBanHang/WebBanHang/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ojic8umssh

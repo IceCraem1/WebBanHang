@@ -1,0 +1,59 @@
+﻿@model WebBanHang.Models.Model.tblNguoiDung
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Log in</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post" id="authForm">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="sTenNguoiDung" class="control-label"></label>
+                <input asp-for="sTenNguoiDung" class="form-control" />
+                <span asp-validation-for="sTenNguoiDung" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sTenDangNhap" class="control-label"></label>
+                <input asp-for="sTenDangNhap" class="form-control" />
+                <span asp-validation-for="sTenDangNhap" class="text-danger"></span>
+            </div>
+            <div id="registerFields" style="display: none;">
+            <div class="form-group">
+                <label asp-for="sMatKhau" class="control-label"></label>
+                <input asp-for="sMatKhau" class="form-control" />
+                <span asp-validation-for="sMatKhau" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sSoDienThoai" class="control-label"></label>
+                <input asp-for="sSoDienThoai" class="form-control" />
+                <span asp-validation-for="sSoDienThoai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sDiaChi" class="control-label"></label>
+                <input asp-for="sDiaChi" class="form-control" />
+                <span asp-validation-for="sDiaChi" class="text-danger"></span>
+            </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Đăng ký" class="btn btn-primary" />
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary" id="authButton">Đăng nhập</button>
+            </div>
+            <p>Chưa có tài khoản? <a href="#" id="switchLink">Đăng ký</a></p>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

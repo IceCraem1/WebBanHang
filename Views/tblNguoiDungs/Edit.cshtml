@@ -1,0 +1,54 @@
+﻿@model WebBanHang.Models.Model.tblNguoiDung
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>tblNguoiDung</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="iIDNguoiDung" />
+            <div class="form-group">
+                <label asp-for="sTenNguoiDung" class="control-label"></label>
+                <input asp-for="sTenNguoiDung" class="form-control" />
+                <span asp-validation-for="sTenNguoiDung" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sTenDangNhap" class="control-label"></label>
+                <input asp-for="sTenDangNhap" class="form-control" />
+                <span asp-validation-for="sTenDangNhap" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sMatKhau" class="control-label"></label>
+                <input asp-for="sMatKhau" class="form-control" />
+                <span asp-validation-for="sMatKhau" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sSoDienThoai" class="control-label"></label>
+                <input asp-for="sSoDienThoai" class="form-control" />
+                <span asp-validation-for="sSoDienThoai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="sDiaChi" class="control-label"></label>
+                <input asp-for="sDiaChi" class="form-control" />
+                <span asp-validation-for="sDiaChi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
